@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "SignalR-ObjC"
-  s.version      = "2.0.0.2"
+  s.version      = "2.0.1"
   s.summary      = "Objective-C Client for the SignalR Project works with iOS and Mac."
   s.homepage     = "https://github.com/DyKnow/SignalR-ObjC"
   s.license      = 'MIT'
